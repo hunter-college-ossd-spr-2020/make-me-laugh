@@ -114,6 +114,7 @@ more changes, and then create your own "fork" of this repository on GitHub.
 5. __Do not proceed until your instructor tells you that you can, because something is about to
    change in the original (upstream) repository.__
 
+
 6. Before you create another file, you need to pull down changes that were made after
    you forked and cloned the original.
 
