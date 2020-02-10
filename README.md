@@ -13,9 +13,9 @@ repository;
 
 ## Summary
 
-In this activity you will clone a repository, make some changes to it,
+In this activity you will fork and clone a repository, make some changes to it,
 record those changes, get updates from the original repository, make some
-more changes, and then create your own "fork" of this repository on GitHub.
+more changes, and then modify your  fork of this repository on GitHub.
 
 ## Instructions
 
