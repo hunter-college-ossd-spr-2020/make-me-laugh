@@ -119,14 +119,15 @@ more changes, and then modify your  fork of this repository on GitHub.
 6. Before you create another file, you need to pull down changes that were made after
    you forked and cloned the original.
 
-    1. Pull down the upstream:
+    1. Pull down the master branch from the upstream:
 
        ```
        git pull upstream master
        ```
 
-    2. Use a Git command that shows you the state of the repository. Which one?
-       You should see two more files in the repository. What are their names?
+    2. What  Git command can show you the current state of the repository after this command?
+       If you enter `ls` on the command line, you should see two more files in
+      the working directory that are also in the repository. What are their names?
 
     3. Edit the file containing quotes from Dan Quayle by adding a new first line
        that states that Dan Quayle was George H. W. Bush's vice president.
