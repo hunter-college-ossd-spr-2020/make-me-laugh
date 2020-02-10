@@ -89,8 +89,9 @@ more changes, and then create your own "fork" of this repository on GitHub.
 
 4. You will do some work in this repository. In the terminal window,
 
-    1. Create a new file named `something_funny` that contains any joke or riddle or anything that
+    1. Create a new file named `something_funny` that contains anything that
      you think is funny.
+
     2. Stage the file using
 
         ```
@@ -127,8 +128,8 @@ more changes, and then create your own "fork" of this repository on GitHub.
     2. Use a Git command that shows you the state of the repository. Which one?
        You should see two more files in the repository. What are their names?
 
-    3. Edit the file containing quotes from Dan Quayle by putting the years he
-       served in office afetr his name.
+    3. Edit the file containing quotes from Dan Quayle by adding a new first line
+       that states that Dan Quayle was George H. W. Bush's vice president.
 
     4. Stage and commit those changes as above.
 
