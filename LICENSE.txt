@@ -1,10 +1,6 @@
 
 Copyright Stewart Weiss 2020.
 
-This activity in this repository is derived with very few changes from an activity created by Joanna Klukowska, at
-[https://github.com/joannakl/ossd_materials/blob/master/activities/browser_add-on_activity.md](https://github.com/joannakl/ossd_materials/blob/master/activities/browser_add-on_activity.md),
-used under CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/), .
-
 Unless otherwise noted, the contents of this repository are licensed
 under the Creative Commons Attribution-Share Alike 4.0 International license
 by Stewart Weiss, reproduced below.
