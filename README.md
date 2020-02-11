@@ -26,9 +26,9 @@ more changes, and then modify your  fork of this repository on GitHub.
 2. Fork this repository to your local account:
    1. Click __Fork__ in the upper-right corner of the page containing this README file.
    2. If you are a member of one or more organizations, select your personal account to receive the fork.
-   3. You should be viewing your personal fork of the team's repository on GitHub.
+   3. You should be viewing your personal fork of the organization's repository on GitHub.
 
-   Congratulations, you have forked a personal copy of the team's repository!
+   Congratulations, you have forked a personal copy of the organization's repository!
 
 
 3. Clone your fork:
@@ -69,7 +69,7 @@ more changes, and then modify your  fork of this repository on GitHub.
         ```
     6. Run the following command and confirm that your local repository  has
        two remotes (but four lines): `origin`, which points to your fork of the
-       team's repository, and `upstream`, which points to your team's repository.
+       organization's repository, and `upstream`, which points to your organization's repository.
 
         ```
         git remote -v
@@ -85,7 +85,7 @@ more changes, and then modify your  fork of this repository on GitHub.
         upstream  https://github.com/CLASS_ORGANIZATION/make-me-laugh.git (fetch)
         upstream  https://github.com/CLASS_ORGANIZATION/make-me-laugh.git (push)
         ```
-    Congratulations, your local clone now knows where to find the upstream repository (i.e., your team's repository).
+    Congratulations, your local clone now knows where to find the upstream repository (i.e., your organization's repository).
 
 4. You will do some work in this repository. In the terminal window,
 
